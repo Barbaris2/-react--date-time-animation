@@ -2,7 +2,7 @@
 
 # [react]-date-time-animation
 
-Это простое React приложение - анимация даты и времени. Смотреть на [codesandbox.io]()
+Это простое React приложение - анимация даты и времени. Смотреть на [codesandbox.io](https://gq8jt.csb.app/)
 
 ### Быстрый старт
 
